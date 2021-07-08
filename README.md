@@ -5,7 +5,7 @@ Enthusiastic programmer of applications for Android, games for pc and mobile dev
 
 
 You can see some of my projects here 🛠:
-- [Youtube] (https://www.youtube.com/channel/UCfSzXq6YzepY6ZhUQ2a44pw)
+- Youtube https://www.youtube.com/channel/UCfSzXq6YzepY6ZhUQ2a44pw
 
 <!--
 **JUANES545/JUANES545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
