@@ -1,6 +1,7 @@
 ### Hi there 😸, my name is Juan Mejía.
 
-I am a mechatronic engineer, with experience in the development of robots to operate in different areas, such as: physiotherapy, entertainment and learning.
+I'm a mechatronic engineer, with experience in the development of robots to operate in different areas, such as: physiotherapy, entertainment, competencies and learning.
+
 Enthusiastic programmer of applications for Android, games for pc and mobile devices.
 
 
