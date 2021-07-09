@@ -9,8 +9,6 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
 - Youtube https://www.youtube.com/channel/UCfSzXq6YzepY6ZhUQ2a44pw
 
 ## Skills:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=red)]()
-</br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=red)]()
 </br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=red)]()
