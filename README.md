@@ -16,7 +16,6 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
 #### 💪 Platforms & Languages:
 
 [![Android_Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=blue)]()
-</br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-FFCA28?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=red)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=red)]()
@@ -24,7 +23,6 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
 [![Unity](https://img.shields.io/badge/Unity-434141?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)]()
 </br>
 [![HTML](https://img.shields.io/badge/Html-8BC34A?style=for-the-badge&logo=html&logoColor=white&labelColor=black)]()
-</br>
 [![Python](https://img.shields.io/badge/Python-FF7272?style=for-the-badge&logo=python&logoColor=yellow&labelColor=434141)]()
 
 #### 🛠 Tools:
@@ -32,7 +30,6 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   </br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  </br>
   <img src="https://img.shields.io/badge/Github-FFFFFF?style=flat-square&logo=Github&logoColor=black"/>
 </p>
 <!--
