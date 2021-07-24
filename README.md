@@ -19,7 +19,7 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
 [![Kotlin](https://img.shields.io/badge/Kotlin-FFCA28?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=red)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=red)]()
-[![Unity](https://img.shields.io/badge/Unity-434141?style=for-the-badge&logo=unity&logoColor=white&labelColor=red)]()
+[![Unity](https://img.shields.io/badge/Unity-434141?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-0AC1C1?style=for-the-badge&logo=python&logoColor=yellow&labelColor=red)]()
 [![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=red)]()
