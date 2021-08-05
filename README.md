@@ -32,7 +32,7 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
   <img src="https://img.shields.io/badge/Github-FFFFFF?style=flat-square&logo=Github&logoColor=black"/>
 </p>
 <!--
-**JUANES545/JUANES545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JUANES545/JUANES545** is a ✨ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
