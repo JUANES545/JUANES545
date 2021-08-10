@@ -18,18 +18,19 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
 [![Android_Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=red)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-FFCA28?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=red)]()
 </br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=javaScript&logoColor=white&labelColor=yellow)]()
+[![PHP](https://img.shields.io/badge/php-434141?style=for-the-badge&logo=php&logoColor=white&labelColor=purple)]()
+</br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=red)]()
 [![Unity](https://img.shields.io/badge/Unity-434141?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-0AC1C1?style=for-the-badge&logo=python&logoColor=yellow&labelColor=red)]()
 [![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=red)]()
-</br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=javaScript&logoColor=white&labelColor=yellow)]()
-[![PHP](https://img.shields.io/badge/php-434141?style=for-the-badge&logo=php&logoColor=white&labelColor=purple)]()
 
 #### 🛠 Tools:
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Composer-blue?style=flat-square&logo=Composer&logoColor=black"/>
   </br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-FFFFFF?style=flat-square&logo=Github&logoColor=black"/>
