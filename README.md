@@ -1,4 +1,4 @@
-### Hi there 😸 my name is Juan Mejía.
+### Hello there 😸 my name is Juan Mejía.
 <p>
    <a href="https://www.linkedin.com/in/juan-esteban-b90b821a0/" target="_blank"><img src="https://img.shields.io/badge/Juan_Mejía-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:juanes.reich@gmail.com" target="_blank"><img src="https://img.shields.io/badge/juanes.reich@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
