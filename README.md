@@ -9,7 +9,8 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
 
 ### You can see some of my projects here: 🎨
 <p>
-  <a href="https://www.youtube.com/channel/UCfSzXq6YzepY6ZhUQ2a44pw" target="_blank"><img src="https://img.shields.io/badge/YouTube_Juan_Esteban_Mejía-EA4335?style=flat-square&logo=YouTube&logoColor=white"/></a>
+  <a href="https://juanes545.github.io/WebJuan/" target="_blank"><img src="https://img.shields.io/badge/Personal_web_page-0A66C2?style=flat-square&logo=Unity&logoColor=black"/></a>
+   <a href="https://www.youtube.com/channel/UCfSzXq6YzepY6ZhUQ2a44pw" target="_blank"><img src="https://img.shields.io/badge/YouTube_Juan_Esteban_Mejía-EA4335?style=flat-square&logo=YouTube&logoColor=white"/></a>
 </p>
 
 ## Skills
