@@ -14,7 +14,7 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
 </p>
 
 ## Skills
-#### 💪 Platforms & Languages:
+####💪 Platforms & Languages:
 
 [![Android_Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=red)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-FFCA28?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=red)]()
