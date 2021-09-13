@@ -36,13 +36,6 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-FFFFFF?style=flat-square&logo=Github&logoColor=black"/>
 </p>
-<style>
-p
-{
-   font-color: (255,255,255);
-   background: (50,50,50);
-   }
-</style>
 <!--
 **JUANES545/JUANES545** is a ✨ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
