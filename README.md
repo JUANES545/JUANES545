@@ -28,7 +28,7 @@ Enthusiastic programmer of applications for Android, pc and mobile devices games
 [![Python](https://img.shields.io/badge/Python-0AC1C1?style=for-the-badge&logo=python&logoColor=yellow&labelColor=red)]()
 [![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=red)]()
 
-#### 🛠 Tools:
+#### 🛠  Tools:
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
    <img src="https://img.shields.io/badge/Composer-blue?style=flat-square&logo=Composer&logoColor=black"/>
